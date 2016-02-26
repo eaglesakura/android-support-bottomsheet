@@ -1,8 +1,8 @@
 # Android Support BottomSheet
 
-[![Circle CI](https://circleci.com/gh/eaglesakura/andorid-support-bottomsheet.png?style=badge)](https://circleci.com/gh/eaglesakura/andorid-support-bottomsheet)
+[![Circle CI](https://circleci.com/gh/eaglesakura/android-support-bottomsheet.png?style=badge)](https://circleci.com/gh/eaglesakura/android-support-bottomsheet)
 
-[JavaDoc](http://eaglesakura.github.io/maven/doc/andorid-support-bottomsheet/javadoc/)
+[JavaDoc](http://eaglesakura.github.io/maven/doc/android-support-bottomsheet/javadoc/)
 
 ## 概要
 
@@ -30,7 +30,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.eaglesakura:andorid-support-bottomsheet:1.0.+'	// add library
+    compile 'com.eaglesakura:android-support-bottomsheet:1.0.+'	// add library
 }
 
 
